@@ -14,7 +14,6 @@ public class FactorialNumberUsingRecursion {
 	public static void main(String[] args) {
 		int n=6;
 	   recFact(n);
-		//System.out.println(fact);
 	}
 
 }
