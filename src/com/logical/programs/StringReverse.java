@@ -17,6 +17,11 @@ public class StringReverse {
         for(int i=c.length-1;i>=0;i--) {
         	System.out.print(c[i]);
         }
+        System.out.println();
+        String strb="perfect";
+        StringBuilder sb=new StringBuilder(strb);
+        sb.reverse();
+        System.out.println("Using inbuilt methods:"+sb);
 	}
 
 }
