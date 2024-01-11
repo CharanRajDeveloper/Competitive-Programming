@@ -18,7 +18,7 @@ public class StringReverseUsingRecursion {
 
 	public static void main(String[] args) {
 		StringReverseUsingRecursion rs = new StringReverseUsingRecursion();
-		String resultantSting1 = rs.reverseString("charan raj");
+		String resultantSting1 = rs.reverseString("amma");
 		System.out.println(resultantSting1);
 	}
 
