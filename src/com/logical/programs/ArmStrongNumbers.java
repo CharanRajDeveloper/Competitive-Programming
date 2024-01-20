@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ArmStrongNumbers {
 	public static void main(String[] args) {
+		//Getting the input from the user
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the Number to find whether it is Armstrong number or not");
 		int numDigit=sc.nextInt();
